@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Jollibe",
+      "desc": "Jabi"
+    },
+    {
+      "id": 4,
+      "title": "Kinuron",
+      "desc": "Restos"
+    },
+    {
+      "title": "Mcdo",
+      "desc": "Sarap mo",
+      "id": 5
+    },
+    {
+      "title": "sad",
+      "desc": "123",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
